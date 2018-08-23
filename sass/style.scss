@@ -3,7 +3,7 @@ body {
     font-size: 18px;
 }
 
-#getJoke {
+[id=getJoke] {
     background-color: lightblue;
     color: black;
     border: 2px solid lightblue;
@@ -21,7 +21,7 @@ body {
     }
 }
 
-#joke {
+[id=joke] {
     max-width: 350px;
     margin: 0 auto;
 }

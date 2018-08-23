@@ -1,29 +1,7 @@
-body {
-  text-align: center;
-  font-size: 18px;
-}
+body { text-align: center; font-size: 18px; }
 
-#getJoke {
-  background-color: lightblue;
-  color: black;
-  border: 2px solid lightblue;
-  border-radius: 3px;
-  cursor: pointer;
-  transition-duration: 0.7s;
-  padding: 8px;
-  margin-top: 20px;
-  margin-bottom: 30px;
-}
+[id=getJoke] { background-color: lightblue; color: black; border: 2px solid lightblue; border-radius: 3px; cursor: pointer; transition-duration: 0.7s; padding: 8px; margin-top: 20px; margin-bottom: 30px; }
 
-#getJoke:hover {
-  background-color: white;
-  border: 2px solid lightblue;
-  color: lightblue;
-}
+[id=getJoke]:hover { background-color: white; border: 2px solid lightblue; color: lightblue; }
 
-#joke {
-  max-width: 350px;
-  margin: 0 auto;
-}
-
-/*# sourceMappingURL=style.css.map */
+[id=joke] { max-width: 350px; margin: 0 auto; }
